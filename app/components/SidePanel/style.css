@@ -1,0 +1,56 @@
+.SidePanel{
+    vertical-align: top;
+    width: 300px;
+    z-index: 29;
+    transition: 0.1s;
+    background-color: #14161A;
+    height: calc( 100vh - 32px);
+}
+.SidePanel-bg{
+    background-color: #00000022;
+}
+@media (max-width:1080px){
+    .SidePanel{
+        display: inline;
+        position: absolute;
+        top: 32px;
+        width: 80vw;
+    }
+    .SidePanel-bg{
+        position: absolute;
+        left: 0px;
+        top: 32px;
+        width: 100vw;
+        height: calc( 100vh - 32px);
+    }
+}
+@media (min-width:1080px){
+    .SidePanel{
+        display: inline-block;
+        position: static;
+        top: 32px;
+    }
+    .SidePanel-bg{
+        position: absolute;
+        width: 0vw;
+        height: 0vh;
+    }
+}
+
+.sidepanel-hide{
+    left: -80vw;
+}
+.sidepanel-show{
+    left: 0;
+}
+.sidepanel-bg-hide{
+    z-index: -10;
+    visibility: hidden;
+    position: absolute;
+    width: 0vw;
+    height: 0vh;
+    
+}
+.sidepanel-bg-show{
+    z-index: 28;
+}

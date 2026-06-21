@@ -1,0 +1,29 @@
+.nav-title {
+    display: inline-block;
+}
+
+.nav-menu-button {
+    height: 32px;
+    padding: 0px 12px;
+}
+
+@media (max-width:1080px) {
+    .nav-menu-button {
+        margin-right: 10px;
+    }
+}
+
+@media (min-width:1080px) {
+    .nav-menu-button {
+        visibility: hidden;
+        width: 0px;
+    }
+}
+
+.content-panel{
+    vertical-align: top;
+    width: 100vw;
+}
+.tools{
+    margin-left: 20px;
+}
