@@ -1,0 +1,80 @@
+{
+    "contents": [
+        {
+            "id": "",
+            "articles": [
+                {
+                    "title": "自己紹介",
+                    "article": [
+                        "HN:さしみ",
+                        "いろいろなものを嗜んでおります。",
+                        "程々に思いついたことを記載していきます。",
+                        "過去のブログはこちら",
+                        "#linkhttps://hrkblog.blog.shinobi.jp/"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "about",
+            "articles": [
+                {
+                    "title": "はじめまして",
+                    "article": [
+                        "こんにちは",
+                        "github pagesでブログを作ってみる企画",
+                        "nextjsとか使って作ってみた"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "bike",
+            "articles": [
+                {
+                    "title": "はじめまして",
+                    "article": [
+                        "こんにちは",
+                        "github pagesでブログを作ってみる企画",
+                        "#太文字を実装してみるよ"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "spa",
+            "articles": [
+                {
+                    "title": "ほっとぱーく鉾田に行ってきました。",
+                    "article": [
+                        "こんにちは",
+                        "github pagesでブログを作ってみる企画。既存の話をダラダラしていこうと思います。",
+                        "今回は",
+                        "#ほっとぱーく鉾田",
+                        "へ行ってきました。",
+                        "↓動画はこちら",
+                        "#youtubehttps://www.youtube.com/embed/FHDxeKAu6sQ?si=7rp-7WB4Mi-LVJ0q",
+                        "外観はこんなかんじ",
+                        "#imageP1053200.JPG",
+                        "底が見えない位真っ黒な泉質で",
+                        "pHも程よく高くなかなか良い温泉でした～"
+                    ]
+                },
+                {
+                    "title": "修善寺温泉へ行ってきた",
+                    "article": [
+                        "こんにちは",
+                        "github pagesでブログを作ってみる企画。既存の話をダラダラしていこうと思います。",
+                        "今回は",
+                        "#修善寺温泉",
+                        "へ行ってきました。",
+                        "↓動画はこちら",
+                        "#youtubehttps://www.youtube.com/embed/lvRkgC9431c?si=UVY1ul3_tzeMBWOd",
+                        "取った画像は全面的に消失...",
+                        "pHも程よく高くなかなか良い温泉でした～"
+                    ]
+                }
+            ]
+        }
+    ]
+}
